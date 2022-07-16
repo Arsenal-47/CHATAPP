@@ -1,6 +1,6 @@
 <html>
     <head>
-        <title>Chat Room</title>
+        <title>Chat App</title>
         
         <link href="../Resources/css/main.css" rel="stylesheet" type="text/css"> 
         <link href="../Vendors/grid.css" rel="stylesheet" type="text/css">
@@ -13,7 +13,7 @@
                 <!-------------left-------->
             <div class="left"><img src="../Resources/images/paperplane.png" class="logo clear"></div>
                  <!------------Mid-------->
-            <div class="mid"><h1>CHAT BOX</h1></div>
+            <div class="mid"><h1>CHAT APP</h1></div>
                 <!-----------right--------->
             <div><ul class="right">
                     <li><a href="./setting.php" target="blank"><img src="../Resources/images/setting.png" class="img"></a></li>
